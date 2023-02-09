@@ -22,7 +22,7 @@
 
 - <b>Bachelor Thesis </b>
   - [Prediction of Bitcoin crashes using Twitter News Accounts](https://github.com/berradakech/Bachelor-Thesis.git)
-- <b>Famous ML Algorithms implementation </b>
+- <b>Popular ML Algorithms implementation </b>
   - [K-Nearest Neighbor classifier on the Healthy body dataset](https://github.com/berradakech/Bachelor-Thesis.git)
   - [K-Means Algorithm on MNIST dataset](https://github.com/berradakech/Bachelor-Thesis.git)
   - [Binary Classification with Logistic Regression on the Iris Flower Dataset](https://github.com/berradakech/Bachelor-Thesis.git)
