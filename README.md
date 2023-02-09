@@ -17,6 +17,14 @@
 
 - <b>Bachelor Thesis </b>
   - [Prediction of Bitcoin crashes using Twitter News Accounts](https://github.com/berradakech/Bachelor-Thesis.git)
+- <b>Famous ML Algorithms implementation </b>
+  -[K-Nearest Neighbor classifier on the Healthy body dataset](https://github.com/berradakech/Bachelor-Thesis.git)
+  -[K-Means Algorithm on MNIST dataset](https://github.com/berradakech/Bachelor-Thesis.git)
+  -[Binary Classification with Logistic Regression on the Iris Flower Dataset](https://github.com/berradakech/Bachelor-Thesis.git)
+  -[SVM classifier using SVC](https://github.com/berradakech/Bachelor-Thesis.git)
+  -[Vanilla multilayer perceptron coded from scratch]
+  -[3-layer CNN on MNIST dataset]
+  -[Image segmentation using U-Net architecture]
 
 <h2>:vibration_mode: Communication Systems Projects</h2>
 
