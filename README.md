@@ -1,28 +1,27 @@
-<h1>Hi, I'm Mehdi! <br/><a href="https://github.com/berradakech">Programmer</a> and <a href="https://www.linkedin.com/in/mehdiberradaepfl/">Cybersecurity Student at EPFL & ETHZ </a></h1>
+<h1>Hi, I'm Mehdi! <br/> I am a <a href="https://www.linkedin.com/in/mehdiberradaepfl/">Cybersecurity Student at EPFL & ETHZ </a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Password Cracking: </b>
+  - [Brute force and dictionary attacks, bcrypt server](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Network Attacks</b>
+  - [Sniffing, TLS downgrade, Secure nginx configuration](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+- <b>Injection Attacks</b>
+  - [Prepared statements as defense against SQL injection attacks](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Adversarial Machine Learning</b>
+  - [Machine Learning model stealing](https://github.com/joshmadakor1/EncrypterPOC)
+- <b>Privacy Enhancing Technologies</b>
+  - [Database de-anonymization and differential privacy as defense](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>👨‍💻 Machine learning Projects</h2>
+<h2> 🤖 Machine learning Projects</h2>
 
 - <b>Bachelor Thesis </b>
-  - [Prediction of Bitcoin crashes using Twitter News Accounts](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Prediction of Bitcoin crashes using Twitter News Accounts](https://github.com/berradakech/Bachelor-Thesis.git)
 
+<h2>:vibration_mode: Communication Systems Projects</h2>
+
+- <b> Digital Communication </b>
+  - [Encoder/Decoder implementation for AWGN Channel Communication](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> 🤳 Connect with me:</h2>
 
