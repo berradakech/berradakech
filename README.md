@@ -5,7 +5,7 @@
 - <b>Password Cracking: </b>
   - [Brute force and dictionary attacks](https://github.com/berradakech/Password-Cracking-Dictionary-attack-.git)
 - <b>Network Attacks</b>
-  - [Sniffing, TLS downgrade, Secure nginx configuration](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Man-in-the-middle attack](https://github.com/berradakech/Sniffing_attack.git)
 - <b>Injection Attacks</b>
   - [Prepared statements as defense against SQL injection attacks](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Adversarial Machine Learning</b>
