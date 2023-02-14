@@ -4,7 +4,6 @@
 
 - <b>Password Cracking: </b>
   - [Brute force and dictionary attacks](https://github.com/berradakech/Password-Cracking-Dictionary-attack-.git)
-  - [Password cracking using rainbow tables](https://github.com/berradakech/Password-Cracking-Dictionary-attack-.git)
 - <b>Network Attacks</b>
   - [Sniffing, TLS downgrade, Secure nginx configuration](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>Injection Attacks</b>
