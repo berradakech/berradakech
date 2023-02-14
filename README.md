@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mehdi! <br/> I am a <a href="https://www.linkedin.com/in/mehdiberradaepfl/">Cybersecurity Student at EPFL & ETHZ </a></h1>
+<h1>Hi, I'm Mehdi! <br/> I study <a href="https://www.linkedin.com/in/mehdiberradaepfl/">Cybersecurity at EPFL & ETHZ </a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
