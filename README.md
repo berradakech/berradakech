@@ -12,7 +12,7 @@
   - [Machine Learning model stealing](https://github.com/berradakech/Machine-Learning-model-stealing.git)
   - [Homomorphic Encryption for ML Model Inference](https://github.com/berradakech/Homomorphic-Encryption-for-ML-Model-Inference.git)
 - <b>Privacy Enhancing Technologies</b>
-  - [Database de-anonymization and differential privacy as defense](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Differentially Private Queries using the Laplace Mechanism](https://github.com/berradakech/Differentially-Private-Queries.git)
 
 <h2>:vibration_mode: Communication Systems Projects</h2>
 
