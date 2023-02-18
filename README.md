@@ -17,7 +17,7 @@
 <h2>:vibration_mode: Communication Systems Projects</h2>
 
 - <b> Digital Communication </b>
-  - [Encoder/Decoder implementation for AWGN Channel Communication](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Encoder/Decoder implementation for AWGN Channel Communication](https://github.com/berradakech/EncoderDecoder.git)
 
 <h2> 🤖 Machine learning Projects</h2>
 
