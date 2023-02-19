@@ -27,7 +27,7 @@
 <h2> 💻 Software Development Projects</h2>
 
 - <b>Object Oriented Programming </b>
-  - [RIGEL : A Sky Observation GUI in Java and JavaFX](https://github.com/berradakech/Bachelor-Thesis.git)
+  - [RIGEL : A Sky Observation GUI in Java and JavaFX](https://github.com/berradakech/RIGEL.git)
 
 
 <h2> 🤳 Connect with me:</h2>
