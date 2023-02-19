@@ -24,6 +24,11 @@
 - <b>Bachelor Thesis </b>
   - [Prediction of Bitcoin crashes using Twitter News Accounts](https://github.com/berradakech/Bachelor-Thesis.git)
 
+<h2> 💻 Software Development Projects</h2>
+
+- <b>Object Oriented Programming </b>
+  - [RIGEL : A Sky Observation GUI in Java and JavaFX](https://github.com/berradakech/Bachelor-Thesis.git)
+
 
 <h2> 🤳 Connect with me:</h2>
 
